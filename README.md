@@ -21,7 +21,7 @@ This visualization enables HR professionals to make **data-driven decisions** fo
 
 ## 🖼️ Dashboard Preview
 
-![HR Attrition Dashboard](images/HR_Dashboard.png)
+![HR Attrition Dashboard](HR_Dashboard.png)
 
 > 💡 *Tip:* Store your dashboard image in a folder named `images` inside your repository and ensure the file name matches.
 
