@@ -38,21 +38,6 @@ This visualization enables HR professionals to make **data-driven decisions** fo
 
 ---
 
-## 🚀 How to View the Dashboard
-
-### 🖥️ Option 1 — View on Tableau Public  
-Explore the interactive version here 👇  
-👉 [View HR Attrition Dashboard on Tableau Public](https://public.tableau.com/app/profile/pallavipawar1805)  
-*(Replace this link with your actual Tableau Public dashboard link)*
-
-### 💾 Option 2 — View Locally  
-1. Download the `.twb` file from this repository.  
-2. Open it in **Tableau Desktop**.  
-3. Load or connect the dataset if prompted.  
-4. Interact with filters and explore insights!
-
----
-
 ## 📈 Key Insights
 
 - 💼 **Attrition Rate:** 16% overall — with **237 employees** leaving out of **1,470**.  
